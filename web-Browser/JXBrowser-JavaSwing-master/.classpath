@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/JxBrowser_Tutorial_Kingaspx.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jxbrowser-6.23.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jxbrowser-win32-6.23.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jxbrowser-win64-6.23.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/MyLicense-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jxbrowser-6.23.1.jar"/>
+	<classpathentry kind="lib" path="lib/jxbrowser-win32-6.23.1.jar"/>
+	<classpathentry kind="lib" path="lib/jxbrowser-win64-6.23.1.jar"/>
+	<classpathentry kind="lib" path="lib/MyLicense-1.0.jar"/>
+	<classpathentry kind="lib" path="MyLicense-1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
